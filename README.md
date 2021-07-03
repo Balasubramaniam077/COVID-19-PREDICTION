@@ -11,3 +11,7 @@ I Think the problem statement for covid-19 affected or not to the peoples.In all
 In first offall i think i need to do collecting the Dates from various web Sites & Github Repo's for covid-19 X-rays.After one month  of collecting the data's of covid-19 images.I get into the Machine models to classify the Covid-19 or Normal
 
 I Give my collected Dataset for <a href="https://drive.google.com/drive/folders/13BifNgdcdiQRlb0smRIuCd6vIVSh9Qaz?usp=sharing">Covid-19!</a>
+
+I collected the datas from various sites.So that a Probability fo a dataset is Not !00% Correct.<b>I tried the Classification Method for only Studing purposes Only</b>
+  
+ 
