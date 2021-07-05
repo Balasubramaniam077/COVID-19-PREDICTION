@@ -1,6 +1,6 @@
 # COVID-19-PREDICTION
 
-In 2020 I studies in Collage at UG Level. In that time Me & My friends are long for summer holidays.When the Covid-19 started to Spreading in China.Indian Government announce the Complete lockdown to all over India.At the very First time we are enjoyed to leave the collage for tha holidays.After One month later i observe the series of Covid-19 virus.A few Days later My collage started the online Classes it feeled me lazy and played a lot of online games.IN few days it makes me  very bored 🤯.At the time i start studing the Machine learning & Deep learning.
+In 2020 I studies in Collage at UG Level. In that time Me & My friends are long for summer holidays.When the Covid-19 started to Spreading in China.Indian Government announce the Complete lockdown to all over India.At the very First time we are enjoyed to leave the collage for tha holidays.After One month later i observe the series of Covid-19 virus.A few Days later My collage started the online Classes it feeled me lazy and played a lot of online games.IN few days it makes me  very bored🥱.At the time i start studing the Machine learning & Deep learning.
  
 <img src="https://github.com/Balasubramaniam077/COVID-19-PREDICTION/blob/main/resnet-34/covid-19.png" alt="Covid-19"  class="center">
 
@@ -73,6 +73,8 @@ In Four Classification Models are performed well but i Compare the model which g
  
  
  <b>Future Enhancements</b>
+ 
+ 
 Apologies 🙇‍♂️
 I will train Densenet-121 Model for high accuracy and i updated in my Densenet-121 model folder 
  
