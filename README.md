@@ -34,9 +34,9 @@ In Four Classification Models are performed well but i Compare the model which g
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th><b>Model<b></th>
+     <th><b>Weigth File</b></th>
+     <th><b>Accuracy</b></th>
   </tr>
   <tr>
     <td>Alfreds Futterkiste</td>
