@@ -26,7 +26,8 @@ In Machine learning we have the many tyoe of <a href="https://www.image-net.org/
 <a href="https://paperswithcode.com/model/resnet?variant=resnet-34">resnet-34 ||</a>
 <a href="https://github.com/lukemelas/EfficientNet-PyTorch#:~:text=EfficientNet%20PyTorch%20is%20a%20PyTorch,flexible%2C%20and%20extensible%20as%20possible.">EfficientNet ||</a>
   
-In Four Classification Models are performed well but i Compare the model which gives the more accurate for nREal time Purposes
+In Four Classification Models are performed well but i Compare the model which gives the more accurate for Real![covid](https://user-images.githubusercontent.com/67773609/124438142-748a0500-dd95-11eb-9aa4-b432441a38a4.gif)
+ time Purposes
  
  
   
