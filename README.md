@@ -40,7 +40,7 @@ In Four Classification Models are performed well but i Compare the model which g
   </tr>
   <tr>
     <td>Densenet121</td>
-    <td><a href="https://drive.google.com/file/d/1ncn1TUZ6inc8gzQn-qZzbuZgl-Nv1oWk/view?usp=sharing"></a>27.1MB</td>
+    <td><a href="https://drive.google.com/file/d/1ncn1TUZ6inc8gzQn-qZzbuZgl-Nv1oWk/view?usp=sharing">0.67</a></td>
     <td>0.65</td>
   </tr>
   <tr>
