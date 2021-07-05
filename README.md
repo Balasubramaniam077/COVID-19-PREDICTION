@@ -21,7 +21,7 @@ I collected the datas from various sites.So that a Probability fo a dataset is N
 In Machine learning we have the many tyoe of <a href="https://www.image-net.org/">imageNet Models</a>.I prefer the Four models to workout thats are 
 
 <p align="center">
-<a href="https://github.com/liuzhuang13/DenseNet">DenseNet-101 ||</a>
+<a href="https://github.com/liuzhuang13/DenseNet">DenseNet-121 ||</a>
 <a href="https://models.roboflow.com/blog.roboflow.com/how-to-train-mobilenetv2">MoblieNetV2 ||</a>
 <a href="https://paperswithcode.com/model/resnet?variant=resnet-34">resnet-34 ||</a>
 <a href="https://github.com/lukemelas/EfficientNet-PyTorch#:~:text=EfficientNet%20PyTorch%20is%20a%20PyTorch,flexible%2C%20and%20extensible%20as%20possible.">EfficientNet ||</a>
@@ -39,37 +39,26 @@ In Four Classification Models are performed well but i Compare the model which g
      <th><b>Accuracy</b></th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>Densenet121</td>
+    <td><a href="https://drive.google.com/file/d/1ncn1TUZ6inc8gzQn-qZzbuZgl-Nv1oWk/view?usp=sharing"></a>27.1MB</td>
+    <td>0.65</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>MoblieNetV2 </td>
+    <td>No - weigth file i Got</td>
+    <td>0.99</td>
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
+    <td>resnet-34</td>
+    <td><a href="https://drive.google.com/file/d/1SMAnL-dQ0U4t1j43aqW7X6HK6-g4Lp9F/view?usp=sharing">87.6</a></td>
+    <td>0.49</td>
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
+    <td>EfficientNet-b4-Pytorch</td>
+    <td><a href="https://drive.google.com/file/d/1uqscFFek0qkuvBUZ1yV999TNy4qujASY/view?usp=sharing">72.6</a></td>
+    <td>0.93</td>
   </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
+ 
 </table>
 
-</body>
-</html>
 
