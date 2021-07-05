@@ -28,10 +28,9 @@ In Machine learning we have the many tyoe of <a href="https://www.image-net.org/
   
 In Four Classification Models are performed well but i Compare the model which gives the more accurate for Real time Purposes
  
- <BODY>
-  <IMG SRC="https://github.com/Balasubramaniam077/COVID-19-PREDICTION/blob/main/resnet-34/covid.gif">
-</BODY>
-
+<video controls="controls">
+    <source src="https://github.com/Balasubramaniam077/COVID-19-PREDICTION/blob/main/resnet-34/covid.gif" type="gif">
+ </video>
 
   
 <h2>Model Table</h2>
