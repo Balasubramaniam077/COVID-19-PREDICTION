@@ -65,6 +65,13 @@ In Four Classification Models are performed well but i Compare the model which g
  
  In above Table i consider EfficientNet-b4 is best accuracy model in Real time Testing with test images. When Compare to the Weigth file Size is Densenet121 is an Good Model.It is very easy to host in website or apply in Applications 
  
+ 
+ <p> Upcoming :
+  
+  --> Clearing updating the images with dataset
+  -->Including the csv file 
+  -->To perpare the high resolutiobn Images 
+ </p>
  <b>Conclusion</b>
  
  I prefer the Densenet121 Model for the real time uses. I will increase the accuracy for the model for appling the more Epochs in Training Period.It will give me the perfect accuracy I needed for this model
